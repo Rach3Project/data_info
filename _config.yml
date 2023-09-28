@@ -1,1 +1,24 @@
+title: "The Rach3 Dataset"
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  Description of the Rach3 Dataset
+
+# Build settings
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme-specific settings
+
+minima:
+  skin: auto
+# header_pages:
+#   - about.md
+
+# Set to `true` to show excerpts on the homepage.
+#
+# show_excerpts: false
