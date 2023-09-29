@@ -7,7 +7,7 @@ Due to the sheer size and complexity of the data, we have decided not to release
 Instead, we will make it accessible to the public in periodic subsections to ensure manageable access. 
 The dataset will be found here, with detailed descriptions and regular updates.
 
-If you are interested in working with the dataset, write an email to carlos_eduardo.cancino_chacon@jku.at.
+If you are interested in working with the dataset, write an email to [Carlos Cancino-Chacón](mailto:carlos_eduardo.cancino_chacon@jku.at).
 
 ## Dataset Contents
 
