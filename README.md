@@ -15,7 +15,7 @@ If you are interested in working with the dataset, write an email to [Carlos Can
 ### Multimodal rehearsal recordings
 All rehearsal sessions are captured with synchronized video, audio and MIDI,
 allowing for high-precision piano note-level recording. 
-Rehearsals have mostly taken place on three pianos: a Yamaha GB1k Silent, an Essex EUP-116E with a built-in silent system, and a Yamaha C1 Disklavier Enspire ST.
+Rehearsals have mostly taken place on three pianos: a [Yamaha GB1k](https://usa.yamaha.com/products/musical_instruments/pianos/grand_pianos/gb1k/specs.html#product-tabs) [Silent](https://usa.yamaha.com/products/musical_instruments/pianos/silent_piano/sh/features.html#product-tabs), an [Essex EUP-116E](https://www.essexpianos.com/pianos/essex/upright/eup-116e) with a built-in silent system, and a [Yamaha C1X](https://usa.yamaha.com/products/musical_instruments/pianos/grand_pianos/cx_series/cx-series.html) [Disklavier Enspire ST](https://usa.yamaha.com/products/musical_instruments/pianos/disklavier/index.html).
 To record video, a video camera (GoPro) is placed above the keyboard, capturing the position/movement of the hands (including fingers), arms, head and torso.
 Video is recorded at 1080p at 60 frames per second (fps). 
 Higher frame rates caused the GoPro to shut down due to overheating, so 60fps was chosen as a compromise between higher resolution and long recording times.
