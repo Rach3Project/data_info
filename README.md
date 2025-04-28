@@ -41,10 +41,13 @@ The full list of pieces can be found [here](./R3_list_of_pieces.md)
 Here are a couple of demos of analysis using automatic hand pose estimation on the Rach3 dataset:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ7AoGi4VSE" frameborder="0" allowfullscreen></iframe>
+<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AJ7AoGi4VSE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-nBnL3o3wf0" frameborder="0" allowfullscreen></iframe>
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KSJcUPztG1Q" frameborder="0" allowfullscreen></iframe>
+<br>
 
 Here is a link to a [YouTube playlist with demos from the dataset](https://youtube.com/playlist?list=PLPUWmNCGflVOcjb5p4-ae3zFm0Z5l15RH&si=rbvFrcfSr9R4T7vH)
 
@@ -58,11 +61,10 @@ The **Dress Rehearsal R3cital Series** (spelling intentional!) is a key componen
 
 3. To simulate the pressures and dynamics of a real concert, the Dress Rehearsal R3cital Series performances will be recorded with the same multimodal setup we use in our rehearsal sessions and will also be live-streamed on YouTube to an online audience.
 
-
 * [Link to YouTube Playlist](https://www.youtube.com/playlist?list=PLSWogjtRLedpSeJWzHZqytIg2WSbfdCLe)
 
 ## References
 
-* Cancino-Chacón, C.E., Pilkov, I. (2024). The Rach3 Dataset: Towards Data-Driven Analysis of Piano Performance Rehearsal. In: Rudinac, S., et al. MultiMedia Modeling. MMM 2024. Lecture Notes in Computer Science, vol 14565. Springer, Cham. <https://doi.org/10.1007/978-3-031-56435-2_3> [(bib)](./resources/mmm24_rach3dataset.bib)   
+* Cancino-Chacón, C.E., Pilkov, I. (2024). The Rach3 Dataset: Towards Data-Driven Analysis of Piano Performance Rehearsal. In: Rudinac, S., et al. MultiMedia Modeling. MMM 2024. Lecture Notes in Computer Science, vol 14565. Springer, Cham. <https://doi.org/10.1007/978-3-031-56435-2_3> [(bib)](./resources/mmm24_rach3dataset.bib)
 
 Last updated: April, 28th, 2025
